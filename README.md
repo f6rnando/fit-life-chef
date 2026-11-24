@@ -24,7 +24,7 @@ Plain HTML/CSS/JS, no build step. Publish directory is the site root (`.`).
 ## Structure
 - `/index.html` home, `/recipes/` all recipes, `/categories/<slug>/` 8 categories,
   `/recipes/<slug>/` 21 recipe pages, `/this-week/` launch-week schedule, `/about/`
-- `/styles.css`, `/main.js`, `/images/` (SVG placeholders — replace with real food photos using the same filenames)
+- `/styles.css`, `/main.js`, `/images/` (JPG food photos, generated Nov 2026 — replace with real food photos using the same filenames if you prefer)
 - `/sitemap.xml`, `/robots.txt`, `/netlify.toml`
 
 ## Nutrition
